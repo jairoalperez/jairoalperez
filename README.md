@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Jairo  
 
-💻 **Full Stack Developer** with experience in various backend and frontend frameworks.  
+💻 **Software Engineer** with experience in Full Stack Development, Database Administration, Cloud Services and DevOps.  
 🚀 Passionate about building scalable applications, system integration, and performance optimization.  
 
 🛠️ **Tech Stack:**  
