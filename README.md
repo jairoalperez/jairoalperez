@@ -11,4 +11,4 @@
 - **DevOps:** Docker, Kubernetes, CI/CD Pipelines  
  
 📫 Connect with me:  
-🔗 [LinkedIn](https://www.linkedin.com/in/jairo-p%C3%A9rez-5aa445252/) | ✉️ [Email](jairoalperezprof@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/jairo-p%C3%A9rez-5aa445252/)   |   ✉️ [Email](jairoalperezprof@gmail.com)
