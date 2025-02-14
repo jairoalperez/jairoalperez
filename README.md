@@ -8,5 +8,5 @@
 - **Frontend:** React, Angular, Next.js  
 - **Databases:** SQL Server, MySQL, PostgreSQL, MariaDB, MongoDB  
 - **Cloud Services:** Azure, Google Cloud, AWS  
-- **DevOps Tools:** Docker, Kubernetes, CI/CD Pipelines  
+- **DevOps:** Docker, Kubernetes, CI/CD Pipelines  
  
