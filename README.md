@@ -13,6 +13,4 @@
 📫 Connect with me:  
 🔗 [LinkedIn](https://www.linkedin.com/in/jairo-p%C3%A9rez-5aa445252/)   |   ✉️ [Email](mailto:jairoalperezprof@gmail.com)
 
-### 🔝 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairoalperez&layout=compact&theme=dark)
 
