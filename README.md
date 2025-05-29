@@ -12,3 +12,10 @@
  
 📫 Connect with me:  
 🔗 [LinkedIn](https://www.linkedin.com/in/jairo-p%C3%A9rez-5aa445252/)   |   ✉️ [Email](mailto:jairoalperezprof@gmail.com)
+
+### 📊 GitHub Stats
+![Jairo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jairoalperez&show_icons=true&theme=dark)
+
+### 🔝 Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairoalperez&layout=compact&theme=dark)
+
