@@ -16,6 +16,6 @@
 ### 📊 GitHub Stats
 ![Jairo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jairoalperez&show_icons=true&theme=dark)
 
-### 🔝 Lenguajes más usados
+### 🔝 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairoalperez&layout=compact&theme=dark)
 
