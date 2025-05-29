@@ -9,3 +9,6 @@
 - **Databases:** SQL Server, MySQL, PostgreSQL, MariaDB, MongoDB  
 - **Cloud Services:** Azure, Google Cloud, AWS  
 - **DevOps:** Docker, Kubernetes, CI/CD Pipelines  
+
+### 🔝 Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairoalperez&layout=compact&theme=dark&cache_seconds=3600)
