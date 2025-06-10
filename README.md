@@ -12,3 +12,11 @@
 
 ### 🔝 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairoalperez&layout=compact&theme=dark&cache_seconds=3600)
+
+---
+
+## 📬 Contact Me
+
+- 📧 [jairoalperezprof@gmail.com](mailto:jairoalperezprof@gmail.com)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/jairo-perez-5aa445252/)
+- 🌐 [Personal Portfolio](https://jairoalperez.vercel.app/)
