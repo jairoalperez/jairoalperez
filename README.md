@@ -19,4 +19,4 @@
 
 - 📧 [jairoalperezprof@gmail.com](mailto:jairoalperezprof@gmail.com)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/jairo-perez-5aa445252/)
-- 🌐 [Personal Portfolio](https://jairoalperez.vercel.app/)
+- 🌐 [Personal Portfolio](https://www.jairoalperez.com/)
