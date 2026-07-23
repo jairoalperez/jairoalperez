@@ -11,7 +11,7 @@
 - **DevOps:** Docker, Kubernetes, CI/CD Pipelines  
 
 ### 🔝 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairoalperez&layout=compact&theme=dark&cache_seconds=3600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jairoalperez&theme=tokyonight)
 
 ---
 
